@@ -1,0 +1,14 @@
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/bin/Release/net8.0/linux-x64/HotelCreatedEventHandler.deps.json
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/bin/Release/net8.0/linux-x64/HotelCreatedEventHandler.runtimeconfig.json
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/bin/Release/net8.0/linux-x64/HotelCreatedEventHandler.dll
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/bin/Release/net8.0/linux-x64/HotelCreatedEventHandler.pdb
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.csproj.AssemblyReference.cache
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.AssemblyInfoInputs.cache
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.AssemblyInfo.cs
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.csproj.CoreCompileInputs.cache
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.dll
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/refint/HotelCreatedEventHandler.dll
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.pdb
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/HotelCreatedEventHandler.genruntimeconfig.cache
+/Users/ade.akingbade/Learning/HotelCreatedEventHandler/HotelCreatedEventHandler/obj/Release/net8.0/linux-x64/ref/HotelCreatedEventHandler.dll

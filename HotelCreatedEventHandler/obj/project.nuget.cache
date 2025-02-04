@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "lx6GfvzEDMg=",
+  "success": true,
+  "projectFilePath": "/Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler/HotelCreatedEventHandler.csproj",
+  "expectedPackageFiles": [
+    "/Users/ade.akingbade/.nuget/packages/amazon.lambda.core/2.5.0/amazon.lambda.core.2.5.0.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.4/amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/amazon.lambda.snsevents/2.1.0/amazon.lambda.snsevents.2.1.0.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/awssdk.core/3.7.401.6/awssdk.core.3.7.401.6.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/awssdk.dynamodbv2/3.7.405.13/awssdk.dynamodbv2.3.7.405.13.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/elasticsearch.net/7.17.5/elasticsearch.net.7.17.5.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/nest/7.17.5/nest.7.17.5.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/ade.akingbade/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
