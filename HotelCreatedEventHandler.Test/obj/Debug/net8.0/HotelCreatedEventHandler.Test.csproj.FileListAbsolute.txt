@@ -48,3 +48,4 @@
 /Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler.Test/obj/Debug/net8.0/HotelCreatedEventHandler.Test.pdb
 /Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler.Test/obj/Debug/net8.0/HotelCreatedEventHandler.Test.genruntimeconfig.cache
 /Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler.Test/obj/Debug/net8.0/ref/HotelCreatedEventHandler.Test.dll
+/Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler.Test/obj/Debug/net8.0/HotelCreatedEventHandler.Test.sourcelink.json

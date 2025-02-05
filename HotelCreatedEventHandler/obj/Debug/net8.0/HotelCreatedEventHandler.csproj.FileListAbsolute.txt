@@ -22,3 +22,4 @@
 /Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler/obj/Debug/net8.0/refint/HotelCreatedEventHandler.dll
 /Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler/obj/Debug/net8.0/HotelCreatedEventHandler.pdb
 /Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler/obj/Debug/net8.0/ref/HotelCreatedEventHandler.dll
+/Users/ade.akingbade/Learning/HotelAppEventHandlers/HotelCreatedEventHandler/obj/Debug/net8.0/HotelCreatedEventHandler.sourcelink.json
